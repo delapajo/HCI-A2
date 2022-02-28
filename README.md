@@ -5,6 +5,7 @@ The Sheridan course app is an intuitive mobile application that manages courses 
 # Links
 
 Figma: https://www.figma.com/file/oXSfUOqgO1BzvomOS1snLM/SheridanCourseApp-(Final)
+
 Video: https://youtu.be/WKXjvG2Z04o
 
 # Prototype
