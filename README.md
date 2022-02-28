@@ -1,1 +1,1 @@
-# HCI-A2
+# Sheridan Course App
