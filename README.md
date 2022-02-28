@@ -1,5 +1,7 @@
 # Sheridan Course App
 
+The Sheridan course app is an intuitive mobile application that manages courses at Sheridan College. It's aim is to help students manage their school activities by allowing them to navigate through their courses and view their assesments. Furthermore, it provides extra features that allows students to not only view course materials, but to also communicate with one another. 
+
 # Links
 
 Figma: https://www.figma.com/file/oXSfUOqgO1BzvomOS1snLM/SheridanCourseApp-(Final)
